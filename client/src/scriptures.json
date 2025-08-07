@@ -1,0 +1,38 @@
+[
+  {
+    "id": "matthew_6_25_34",
+    "emotion": "anxiety",
+    "book": "Matthew",
+    "chapter": 6,
+    "verse": "25-34",
+    "text": "Do not be anxious about your life... Look at the birds of the air... your heavenly Father feeds them.",
+    "question": "Why do you think Jesus points to God’s care for creation to ease our worries? How might this truth apply to your situation?"
+  },
+  {
+    "id": "psalm_23_1_6",
+    "emotion": "loneliness",
+    "book": "Psalm",
+    "chapter": 23,
+    "verse": "1-6",
+    "text": "The Lord is my shepherd; I shall not want...",
+    "question": "How does knowing God is with you as a shepherd comfort you in your loneliness?"
+  },
+  {
+    "id": "psalm_16_11",
+    "emotion": "joy",
+    "book": "Psalm",
+    "chapter": 16,
+    "verse": "11",
+    "text": "You make known to me the path of life; in your presence there is fullness of joy...",
+    "question": "What does it mean to find fullness of joy in God’s presence today?"
+  },
+  {
+    "id": "john_3_16",
+    "emotion": "general",
+    "book": "John",
+    "chapter": 3,
+    "verse": "16",
+    "text": "For God so loved the world that he gave his only Son...",
+    "question": "How does God’s love in this verse shape your view of your current challenges?"
+  }
+]
